@@ -1,19 +1,27 @@
 # Site
-name: "Memoirs"
+name: "Dgqypl"
 title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+description: "欢迎来到我的博客，随便逛逛吧。"
+logo: 'assets/images/logo3.png'
+favicon: 'assets/images/logo3.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 email: wowthemesnet@gmail.com
 
 # Authors
 authors:
+  mew151:
+    name: Mew151
+    display_name: Mew151
+    avatar: 'assets/images/avatar.jpg'
+    email: dgqypl@gmail.com
+    web: https://dgqypl.github.io/
+    twitter: https://twitter.com/wowthemesnet
+    description: "It's me!"
   sal:
     name: Sal
     display_name: Sal
