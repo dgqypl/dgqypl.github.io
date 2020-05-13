@@ -75,6 +75,6 @@ Collector<T, ?, Map<K,U>> toMap(Function<? super T, ? extends K> keyMapper,
                                 BinaryOperator<U> mergeFunction)
 ```
 那么上面测试类的代码可以富写成：
-![泛型解释.png](https://upload-images.jianshu.io/upload_images/2680007-e2f9a1bd3d915ac7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1052)
+![](/assets/images/202005/20200509blog1.png)
 这样对应起来就不用被各种泛型参数看的绕晕了。
 >注：方法引用`Person::getName`只是*lambda*表达式`person -> person.getName()`的另一种写法。

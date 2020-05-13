@@ -10,7 +10,7 @@ disqus: 'demowebsite'
 # mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: dgqypl@gmail.com
 
 # Authors
 authors:
