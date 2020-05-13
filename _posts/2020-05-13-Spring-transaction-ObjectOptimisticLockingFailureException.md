@@ -35,3 +35,7 @@ public class UserDealWithServiceTest extends BaseTest {
 ![](/assets/images/202005/20200513blog1.png)
 2、
 debug程序，当程序定位在断点时，手工从数据库里将id=1821这条记录的version+1，再释放断点，就会报这个错了。
+
+---
+参考资料：
+[记一次事务的坑 Transaction rolled back because it has been marked as rollback-only](https://yunlongn.github.io/2019/05/06/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%BA%8B%E5%8A%A1%E7%9A%84%E5%9D%91Transaction-rolled-back-because-it-has-been-marked-as-rollback-only/)
