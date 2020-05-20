@@ -2,7 +2,7 @@
 layout: post
 title:  "记一次抛乐观锁的异常"
 author: mew151
-image: assets/images/2.jpg
+image: assets/images/202005/porsche-911-singer-cars-landscapes-1920x1080-wallpaper.jpg
 ---
 问题如下：
 
