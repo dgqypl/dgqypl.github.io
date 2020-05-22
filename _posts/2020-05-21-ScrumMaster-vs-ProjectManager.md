@@ -36,13 +36,13 @@ Scrum Master角色的主要职责或目的是通过促进和支持（在[Scrum G
 - 团队绩效和人力资源流程（包括绩效管理）；
 - 以及其他的一些东西...（包括Project Manager的责任和职责等...）；
 
-如果你想了解更多关于Scrum Master立场的误解，可以参看Barry Overeem撰写的[白皮书](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2017-05/The%208%20Stances%20of%20a%20Scrum%20Master%20Whitepaper%20v2_0.pdf)。
+如果你想要了解更多关于Scrum Master立场的误解，可以参看Barry Overeem撰写的[白皮书](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2017-05/The%208%20Stances%20of%20a%20Scrum%20Master%20Whitepaper%20v2_0.pdf)。
 
 ### 什么是Project Manager？
 
 现在我们已经探究过了Scrum Master角色，现在让我们移步到此博客的“vs Project Manager”这一部分。所以，什么是Project Manager？他/她们的职责是什么？查看一些著名的项目管理方法论（例如PM-Bok或[PRINCE2](https://prince2.wiki/roles/project-manager/)），我们发现如下：
 
-> Project Manager是唯一一个每天管理并专注于某个项目的人。因此，这个角色永远不能被共享。Project Manager在指定的约束条件下，代表项目董事会（Project Board）运行项目，并在整个项目期间与项目董事会和项目保证部门保持联络（Project Assurance）。Project Manager通常来自于客户方。他们负责所有的PRINCE2流程，除了指导项目并管理产品交付（Directing a Project and Managing Product Delivery）流程外。
+> Project Manager是唯一一个每天管理并专注于某个项目的人。因此，这个角色永远不能被共享。Project Manager在指定的约束条件下，代表项目委员会（Project Board）运行项目，并在整个项目期间与项目委员会和项目保证部门保持联络（Project Assurance）。Project Manager通常来自于客户方。他们负责所有的PRINCE2流程，除了指导项目并管理产品交付（Directing a Project and Managing Product Delivery）流程外。
 >
 > 来源：[PRINCE2 wiki](https://prince2.wiki/roles/project-manager/)
 
@@ -63,5 +63,26 @@ Scrum Master角色的主要职责或目的是通过促进和支持（在[Scrum G
 - 有关项目管理工具或配置管理上的建议或指导；
 - 管理[变更控制方法（Change Control Approach）](https://prince2.wiki/management-products/change-control-approach/)的配置管理过程。
 
+### Project Manager不做什么？
 
+除了所有的职责、责任和要做的工作之外，有些事Project Manager来做是不对的？所以，Project Manager不应该做的有：
+
+- 为项目的成功或失败负责（由项目委员会来完成）；
+- 为项目提供统一指导（由项目委员会来完成）；
+- 为项目提供资源和批准资金（由项目委员会来完成）；
+- 为Project Manager提供可见的和持久的支持（由项目委员会来完成）；
+- 确保项目团队和外部利益相关者之间的有效沟通（由项目委员会来完成）；
+- 指定用户需求将使用的项目产品（由高级用户来完成）；
+- 在项目管理团队和用户之间保持联络（由高级用户来完成）；
+- 针对需求，确保解决方案能满足用户的需要，尤其在质量、易用性方面（由高级用户来完成）；
+- 为[利益管理方法（Benefits Management Approach）](https://prince2.wiki/management-products/benefits-management-approach/)提供有益信息（由高级用户来完成）。
+
+如果你想要了解更多关于Project Manager角色，有大量的书籍和文章可以来阅读。基于到目前为止的内容，我们期望你已经可以发现一些Scrum Master和Project Manager角色之间比较大的区别了。因此，我们继续介绍一下两个角色的技能。
+
+### Scrum Master和Project Manager的共同特征和技能
+
+优秀的Scrum Masters和Project Managers都拥有许多的技能和特征。因此，这两者通用的技能和特征有：
+
+1. 沟通—在组织中，两者都应该能够与所有利益相关者进行良好的沟通。他们应该能有效的与诸如客户、管理人员、团队成员、用户、供应商等进行沟通。
+2. 领导力—这对于两者来讲是一个非常重要的技能，然而，领导力的类型对于两者来讲会有所不同。Scrum Master更多的是服务式领导，其领导和管理Scrum框架（的实现）以及组织在敏捷中的成长。对于Project Manager，拥有优秀的领导力也同样重要。例如激励团队，说服人们关于项目approach，在项目过程中领导人们等。Although not intentional, a Project Manager could be acting more from a autocratic (dictative) style, while that would be very unlikely for a Scrum Master.
 
