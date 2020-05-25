@@ -84,5 +84,49 @@ Scrum Master角色的主要职责或目的是通过促进和支持（在[Scrum G
 优秀的Scrum Masters和Project Managers都拥有许多的技能和特征。因此，这两者通用的技能和特征有：
 
 1. 沟通—在组织中，两者都应该能够与所有利益相关者进行良好的沟通。他们应该能有效的与诸如客户、管理人员、团队成员、用户、供应商等进行沟通。
-2. 领导力—这对于两者来讲是一个非常重要的技能，然而，领导力的类型对于两者来讲会有所不同。Scrum Master更多的是服务式领导，其领导和管理Scrum框架（的实现）以及组织在敏捷中的成长。对于Project Manager，拥有优秀的领导力也同样重要。例如激励团队，说服人们关于项目approach，在项目过程中领导人们等。Although not intentional, a Project Manager could be acting more from a autocratic (dictative) style, while that would be very unlikely for a Scrum Master.
+2. 领导力—这对于两者来讲是一个非常重要的技能，然而，领导力的类型对于两者来讲会有所不同。Scrum Master更多的是服务式领导，其领导和管理Scrum框架（的实现）以及组织在敏捷中的成长。对于Project Manager，拥有优秀的领导力也同样重要。例如激励团队，说服人们关于项目方法，在项目过程中领导人们等。即使不是故意的，但Project Manager可能会采取专制的方式行事，这点与Scrum Master截然不同。
+3. 组织—Scrum Masters和Project Managers都应该是很有条理的人。他们应该非常善于组织好他们自己的工作，平衡工作和私生活，以及在宏观下看清我们的位置。
 
+### Scrum Master的特征或技能
+
+优秀的Scrum Master有许多相关的技能和特征。我们在这篇文章中只分享前3个技能/特征（而不会把详尽的列表列出来）。如果你想要了解更多关于优秀Scrum Master的技能或特征，可以参看[这篇文章](https://www.barryovereem.com/characteristics-of-a-great-scrum-master/)。
+
+1. **敏捷专家**—优秀的Scrum Masters是敏捷方面的专家。他们精通于Scrum框架，但是他们同样掌握着其他的敏捷框架、方法和实践。Scrum Master是敏捷价值观和原则方面的专家，他们懂得如何训练、指导、教授和促进人们接受这些价值观。
+2. **教练-顾问**—优秀的Scrum Masters对于开发团队、Product Owner和组织来讲是一位“教练”。他们能够通过提出强有力的问题来教授人们，以此方式来改变人们的习惯和行为。他们同样是顾问，能够提供建议，分享实践和为组织就敏捷管理或敏捷合同提供支持。
+3. **服务式领导者**—Scrum Master是一个服务式领导者。Scrum Master以展示行为必要性的方式来领导，并使得改变发生。
+
+### Project Manager的特征或技能
+
+与Scrum Master角色一样，优秀的Project Managers也具有许多特征和技能。
+
+1. **时间管理**—时间管理是项目管理中的很大一部分。Project Managers应该能按时交付他们的项目。他们需要管理他们的项目时间线。因此他们需要确保流程中的任何环节不能花费比预期过长的时间。除了做为project manager管理他自己的时间之外，他们还需要帮助他们的团队管理他们朝九晚五的时间。
+2. **谈判**—Project Managers需要有很强的谈判技巧，其可以帮助他们使项目保持在正轨上，并清除重大障碍。Project Managers应该能够与项目委员会、团队、用户、客户、供应商等进行有效的谈判。
+3. **风险管理**—Project Managers应该善于管理风险。他们需要有识别、管理和追踪风险的能力。
+
+### 结论
+
+就像你已经注意到的，Scrum Master和Project Manager角色之间有很多差异。当然，他们之间也有一些重叠（通用）的特征和技能。然而，通过岗位职责来看，在Scrum Master和Project Manager角色之间只有很少的差异。让我们来总结一下这两者间top-3的重叠和top-3的区别：
+
+### Scrum Master vs Project Manager Top-3职责重叠的部分：
+
+1. Scrum Master和Project Manager都有责任指导组织和团队，为了提高他们的效率；
+2. Scrum Master和Project Manager都**不需要**为项目的成功或失败负责。在Scrum中，Product Owner将最终为项目的成功来负责。在项目中，是项目委员会来为此负责；
+3. Scrum Master和Project Manager都能帮助组织移除障碍/阻碍。然而，Project Manager通常是自己解决障碍，而Scrum Master（更愿意）指导组织和团队去解决障碍。
+
+### Scrum Master vs Project Manager Top-3职责有区别的部分：
+
+1. Project Manager创建、管理和更新所有的文档（项目摘要、PID、预算、风险日志、项目计划、甘特图等）。而Scrum Master不创建、管理和更新任何文档。
+2. Project Manager创建、管理、划分和分配任务给团队成员，同时也为相关利益者管理（项目的）范围。所以，Project Manager具有与需求/内容相关的责任。Scrum Master与内容、需求或产品没有任何关系。Scrum Master不管理工作分配、人员、资源、材料等。
+3. Project Manager角色有很广泛的定位。它包含许多不同的责任，有时没有明确的关系（比如写业务案例vs教导和激励人们）。然而Scrum Master角色则更加专注。Scrum Master增加组织的敏捷性，成为一个服务式领导者并且帮助人们理解和实施Scrum框架。
+
+### 想要学习更多？
+
+希望这篇文章对你有所帮助。如果你接下来有任何问题或者想要了解更多关于专业Scrum，那么请联系我们。
+
+许多Scrum的实现（implementations）失败或者没有使利益最大化的原因之一，是因为对Scrum有非常多的误解，尤其是Product Owner和Scrum Master的角色。如果你是一名至少有1年经验的Product Owner、Product Manager、Scrum Master或敏捷教练，可以去参看关于Product Owner立场的[Professional Scrum Product Owner-Advanced class](https://xebia.com/academy/nl/training/pspo-a)这篇文章。寻找你喜欢或所在地区的培训师，并深入和扩展你的项目管理知识和技能。同时让我们知道你对培训的想法。可以包括你喜欢什么？有什么可以改进的？让我们携手合作，将Product Ownership的专业提升到一个新的水平。
+
+如果你想要体验全新的Professional Scrum Product Owner-Advanced课程，可以在Scrum.org上查找你所在地区的课程。如果你想要参与到我们的其中一门课程，请访问我们的[Xebia Academy](https://xebia.com/academy/nl/training/pspo-a)页面以获取更多的信息或通过training@xebia.com邮箱查询内部课程。
+
+---
+
+原文地址：[Scrum Master vs Project Manager — An overview of the differences.](https://medium.com/the-value-maximizers/scrum-master-vs-project-manager-an-overview-of-the-differences-73104d0264ab)
