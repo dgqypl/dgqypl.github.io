@@ -6,13 +6,13 @@ image: assets/images/202004/clouds-forests-landscapes-nature-1920x1200-wallpaper
 ---
 在Homebrew官网按照以下命令执行：
 
-```bash
+```shell
 /bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
 会报错：
 
-```bash
+```shell
 curl: (7) Failed to connect to raw.githubusercontent.com port 443: Connection refused
 ```
 

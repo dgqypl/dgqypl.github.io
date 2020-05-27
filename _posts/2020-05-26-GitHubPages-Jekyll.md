@@ -9,19 +9,19 @@ image: assets/images/202005/in-nature-black-hair-choi-ji-hyang-1236x824-wallpape
 1、在你的GitHub上创建一个名为*username*.github.io的repository，*username*是你的GitHub账号名。
 
 2、执行以下命令将这个repository拷贝到你本机：
-```bash
+```shell
 git clone https://github.com/username/username.github.io
 ```
 这时，你的个人博客就搭建好了，只不过它现在是一个空壳。:)
 
 #### 安装Jekyll
 1、替换源（国外的源实在是太慢了，科学上网也不行）
-```bash
+```shell
 gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 ```
 2、安装：
-```bash
+```shell
 gem install bundler jekyll
 bundle install
 ```
@@ -35,7 +35,7 @@ bundle install
 
 #### 调试&发布
 1、在本机*username*.github.io目录下，执行
-```bash
+```shell
 bundle exec jekyll serve
 ```
 访问[http://127.0.0.1:4000/](http://127.0.0.1:4000/)就可以在本机看到效果。
