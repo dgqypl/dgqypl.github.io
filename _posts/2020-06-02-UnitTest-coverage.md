@@ -126,6 +126,17 @@ exclusionPattern: '**/controller/*.class', sourceExclusionPattern: '**/controlle
 该报告与IntelliJ IDEA中的报告都是JaCoCo原生的，是准确的。
 >目前发现SonarQube中的报告一是不准，二是指标不全，建议不要查看SonarQube的报告。
 
+##### 题外话
+覆盖率作为衡量单元测试质量的**唯一标准是不合理的**。比如下面这个例子：
+```java
+public double cal(double a, double b) {
+  if (b != 0) {
+    return a / b;
+  }
+}
+```
+仅一个测试用例就可以做到100%的覆盖率，比如cal(10.0, 2.0)，但并不代表测试足够全面了，还需要考虑当除数等于0的情况下，代码执行是否符合预期。
+
 ---
 其他相关资料：
 - [Whats my Coverage? (C0 C1 C2 C3 + Path)](https://grosser.it/2008/04/04/whats-my-coverage-c0-c1-c2-c3-path-coverage/)
