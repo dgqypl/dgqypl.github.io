@@ -2,7 +2,7 @@
 layout: post
 title:  "Java8中Collectors.toMap方法的使用"
 author: mew151
-image: assets/images/202005/russia-metro-subway-railway-1350x900-wallpaper.jpg
+image: assets/images/202005/grayscale-photo-of-computer-laptop-near-white-notebook-and-169573.jpg
 ---
 
 先来看一下函数的签名：
