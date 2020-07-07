@@ -2,7 +2,7 @@
 layout: post
 title:  "单元测试覆盖率"
 author: mew151
-image: assets/images/202006/nature-venice-italy-rush-hour-1600x1200-wallpaper.jpg
+image: assets/images/202006/code-coding-computer-data-574077.jpg
 ---
 
 ##### 什么是单元测试覆盖率？
