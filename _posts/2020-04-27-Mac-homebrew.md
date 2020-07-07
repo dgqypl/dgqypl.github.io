@@ -2,7 +2,7 @@
 layout: post
 title:  "Mac 10.15.4安装Homebrew报错的问题"
 author: mew151
-image: assets/images/202004/clouds-forests-landscapes-nature-1920x1200-wallpaper.jpg
+image: assets/images/202006/computer-desk-electronics-keyboard-238118.jpg
 ---
 在Homebrew官网按照以下命令执行：
 
