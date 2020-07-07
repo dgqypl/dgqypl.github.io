@@ -2,7 +2,7 @@
 layout: post
 title:  "Scrum Master与Project Manager的区别"
 author: mew151
-image: assets/images/202005/france-landscape-2560x1920-wallpaper.jpg
+image: assets/images/202005/woman-sitting-on-the-floor-using-a-laptop-4050299.jpg
 ---
 
 什么是Scrum Master？Scrum Master和Project Manager之间有什么区别？Scrum Master是某种形式的敏捷（“敏捷开发”）项目经理吗？在我们的Scrum.org这门课的学员那里，我们经常收到这些问题。在我们深入介绍Scrum Master和Project Manager的区别之前，让我们先从结论开始：**Scrum Master不是敏捷项目经理。在Scrum Master角色和Project Manager职位之间几乎没有重叠的部分。**在这篇博文中，我们将深入这个议题：“Scrum Master vs Project Manager”。
