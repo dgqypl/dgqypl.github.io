@@ -1,13 +1,13 @@
-title: Parchment
-author: pro-panda
+title: Mew151的blog
+author: mew151
 subtitle: The life of a frustrated engineer
 
-url: "https://pro-panda.github.io"
-baseurl: "/parchment"
+url: "https://dgqypl.github.io/"
+baseurl: ""
 
 footer_only_homepage: true
-footer_url: "https://github.com/pro-panda"
-footer_text: "Theme by pro-panda"
+footer_url: "https://github.com/dgqypl"
+footer_text: ""
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
