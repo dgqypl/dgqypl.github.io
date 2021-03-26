@@ -2,7 +2,7 @@
 layout: post
 title: Or maybe Markdown
 subtitle: This post explains how you can write posts using Markdown.
-tags: [guide, markdown]
+tags: []
 private: true
 ---
 
